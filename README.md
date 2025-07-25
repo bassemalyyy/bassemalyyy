@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Geek and Passionate about Agentic Systems.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on some Machine Learning Projects.<br><br>🌱 I’m currently learning Classical ML, MLOps, Agentic Systems.<br><br>👨‍💻 All of my projects are available at https://github.com/bassemalyyy?tab=repositories<br><br>📫 How to reach me bassemaly12@gmail.com
+🔭 I’m currently working on some Machine Learning Projects.<br><br>🌱 I’m currently learning Classical ML, MLOps, Agentic Systems.<br><br>👨‍💻 All of my projects are available at [Github Repos](https://github.com/bassemalyyy?tab=repositories)<br><br>📫 How to reach me [Gmail](bassemaly12@gmail.com)
 
 
 ## 🌐 Socials:
