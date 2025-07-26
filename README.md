@@ -36,25 +36,17 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <!-- Languages & Technologies -->
 # 💻 Tech Stack:
 ### Languages
-<div align="center">  
-  <img src = "https://skillicons.dev/icons?i=python,cpp,java,html,css,js"><br>  
+<div align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,cpp,java,html,css,js"/><br>
 </div>
 
 ### Frameworks and Tools
 <div align="center">
-  <!-- Supported via skillicons.dev -->
-  <img src = "https://skillicons.dev/icons?i=keras,matplotlib,numpy,pandas,pytorch,scikitlearn,tensorflow,scipy,seaborn,huggingface">
-  <br>
-  <!-- Unsupported items: use custom image badges -->
-  <img src="https://seeklogo.com/images/C/crewai-logo-FF5A50DC6A-seeklogo.com.png" alt="CrewAI" style="height:32px; margin:4px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_unsloth_ai.svg/64px-Logo_unsloth_ai.svg.png" alt="Unsloth AI" style="height:32px; margin:4px;">
-  <!-- For LangChain, LangGraph, LlamaIndex, Ollama, CrewAI, Unsloth: use text badges -->
-  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-white?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LlamaIndex-white?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="LlamaIndex">
-  <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=openai&logoColor=000000" alt="Ollama">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkeras,matplotlib,numpy,pandas,pytorch,sklearn,tensorflow,scipy,seaborn,huggingface,langchain,llamaindex,ollama"/><br>
+<img src="https://www.google.com/search?q=https://placehold.co/48x48/000000/FFFFFF%3Ftext%3DLangGraph" alt="LangGraph" title="LangGraph" style="margin: 5px;"/>
+<img src="https://www.google.com/search?q=https://placehold.co/48x48/000000/FFFFFF%3Ftext%3DCrewAI" alt="CrewAI" title="CrewAI" style="margin: 5px;"/>
+<img src="https://www.google.com/search?q=https://placehold.co/48x48/000000/FFFFFF%3Ftext%3DUnsloth%2BAI" alt="Unsloth AI" title="Unsloth AI" style="margin: 5px;"/>
 </div>
-
 
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) -->
 
