@@ -33,10 +33,9 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bassem-m-aly-b75153270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bassemaly12@gmail.com) -->
 
 
-<!-- Languages & Technologies -->
-<div align=center>
-    
+<!-- Languages & Technologies -->  
 # 💻 Tech Stack:
+<div align=center>
 ### Languages
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css"/><br>
