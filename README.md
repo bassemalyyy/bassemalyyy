@@ -1,4 +1,3 @@
-![langgraph-color](https://github.com/user-attachments/assets/8f639752-9c1b-468f-ae60-0160909dbbde)<div align = "right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=bassemalyyy">
 </div>
 
