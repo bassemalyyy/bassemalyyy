@@ -60,10 +60,11 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
 
 <!-- Custom logos row -->
-<img src="" alt="LangChain Logo" style="height:40px; margin:6px;" />
-<img width="100" height="100" alt="langgraph-color" src="https://github.com/user-attachments/assets/dede7ff9-2a27-4015-bd81-13995296fa4a" />
-<img src="https://github.com/joaomdmoura/crewai/blob/main/docs/assets/crewai-logo.svg?raw=true" alt="CrewAI Logo" style="height:40px; margin:6px;" />
-<img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" alt="LlamaIndex Logo" style="height:40px; margin:6px;" />
+<img width="50" height="50" alt="langchain-color" src="https://github.com/user-attachments/assets/756f21dc-a003-48f4-8f1c-477017379568" />
+<img width="50" height="50" alt="langgraph-color" src="https://github.com/user-attachments/assets/dede7ff9-2a27-4015-bd81-13995296fa4a" />
+<img width="50" height="50" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" />
+<img width="50" height="50" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" />
+<img width="50" height="50" alt="ollama" src="https://github.com/user-attachments/assets/64bbfce9-cab6-4f4c-87fc-f25cca5fd6e6"/>
 
 </div>
 
