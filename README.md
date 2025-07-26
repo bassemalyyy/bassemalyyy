@@ -41,25 +41,6 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 </div>
 
 ### Frameworks and Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,docker,fastapi,flask,sqlite"/><br>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch"/><br>
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-
-<!-- Custom logos from Google searches -->
-<img src="https://logo.svgcdn.com/s/langchain-dark.png" alt="LangChain Logo" style="height:32px; margin:4px;" />
-<img src="https://seeklogo.com/vector-logo/616429/langgraph-logo.svg" alt="LangGraph Logo" style="height:32px; margin:4px;" />
-<img src="https://seeklogo.com/vector-logo/619843/crew-ai-logo.svg" alt="CrewAI Logo" style="height:32px; margin:4px;" />
-<img src="https://logo.svgcdn.com/l/langchain-dark.svg" alt="LlamaIndex Logo" style="height:32px; margin:4px;" />
-
-### Frameworks and Tools
 
 <div align="center">
 
@@ -79,8 +60,8 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
 
 <!-- Custom logos row -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/LangChain.svg" alt="LangChain Logo" style="height:40px; margin:6px;" />
-<img src="https://cdn.jsdelivr.net/gh/basujindal/langgraph/logo.svg" alt="LangGraph Logo" style="height:40px; margin:6px;" />
+<img src="" alt="LangChain Logo" style="height:40px; margin:6px;" />
+<img width="225" height="225" alt="Langgraph-Icon" src="https://github.com/user-attachments/assets/5678fc3d-94b8-4445-bb26-aed88382958b"/>
 <img src="https://github.com/joaomdmoura/crewai/blob/main/docs/assets/crewai-logo.svg?raw=true" alt="CrewAI Logo" style="height:40px; margin:6px;" />
 <img src="https://raw.githubusercontent.com/jerryjliu/llama_index/main/docs/logo.png" alt="LlamaIndex Logo" style="height:40px; margin:6px;" />
 
