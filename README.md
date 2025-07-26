@@ -35,11 +35,9 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 <!-- Languages & Technologies -->
 # 💻 Tech Stack:
-<div align=center>
 ### Languages
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css"/><br>
-</div>
 </div>
 
 ### Frameworks and Tools
