@@ -83,7 +83,6 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=bassemalyyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=bassemalyyy&icon=0&color=0)](https://visitcount.itsvg.in) -->
 </div>
