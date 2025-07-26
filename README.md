@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bassemalyyy)
+
 <h1 align="center">Hi 👋, I'm Bassem Mohamed Ali</h1>
 <h3 align="center">AI & ML Geek and Passionate about Agentic Systems.</h3>
 
