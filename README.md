@@ -65,6 +65,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img width="50" height="50" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" />
 <img width="50" height="50" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" />
 <img width="50" height="50" alt="ollama" src="https://github.com/user-attachments/assets/64bbfce9-cab6-4f4c-87fc-f25cca5fd6e6"/>
+<img width="1024" height="1024" alt="ollama (1)" src="https://github.com/user-attachments/assets/bbf443c7-663e-464f-a93f-33c06c376c48" />
 
 </div>
 
