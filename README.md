@@ -19,7 +19,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ## 🌐 Socials:
 <div align="center"> 
   <a href="mailto:bassemaly12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-bassemaly12@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/bassem-m-aly-b75153270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" target="_blank" />
