@@ -15,6 +15,16 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <!-- # 💫 About Me:
 🔭 I’m currently working on some Machine Learning Projects.<br><br>🌱 I’m currently learning Classical ML, MLOps, Agentic Systems.<br><br>👨‍💻 All of my projects are available at [Github Repos](https://github.com/bassemalyyy?tab=repositories)<br><br>📫 How to reach me [Gmail](bassemaly12@gmail.com) -->
 
+<!-- Socila Badges -->
+## 🌐 Socials:
+<div align="center"> 
+  <a href="mailto:bassemaly12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bassem-m-aly-b75153270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bassem-m-aly-b75153270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bassemaly12@gmail.com) 
