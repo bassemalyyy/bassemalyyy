@@ -55,9 +55,9 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
 
 <!-- Custom logos row -->
