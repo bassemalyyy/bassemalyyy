@@ -8,8 +8,12 @@
 </h1>
 <h3 align="center">AI & ML Geek and Passionate about Agentic Systems.</h3>
 
+<!-- Introduction -->
 # 💫 About Me:
-🔭 I’m currently working on some Machine Learning Projects.<br><br>🌱 I’m currently learning Classical ML, MLOps, Agentic Systems.<br><br>👨‍💻 All of my projects are available at [Github Repos](https://github.com/bassemalyyy?tab=repositories)<br><br>📫 How to reach me [Gmail](bassemaly12@gmail.com)
+I'm an AI enthusiast with a strong background in computer science and a passion for building intelligent systems. I love working on machine learning projects, especially those involving large language models (LLMs), agents, and agentic systems. I'm deeply curious about how these technologies can be used to solve real-world problems and enhance human-computer interaction. My focus is on natural language understanding, reasoning, and deploying AI models efficiently.
+
+<!-- # 💫 About Me:
+🔭 I’m currently working on some Machine Learning Projects.<br><br>🌱 I’m currently learning Classical ML, MLOps, Agentic Systems.<br><br>👨‍💻 All of my projects are available at [Github Repos](https://github.com/bassemalyyy?tab=repositories)<br><br>📫 How to reach me [Gmail](bassemaly12@gmail.com) -->
 
 
 ## 🌐 Socials:
