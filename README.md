@@ -37,13 +37,13 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 # 💻 Tech Stack:
 ### Languages
 <div align="center">  
-  ![Languages](https://skillicons.dev/icons?i=python,cpp,java,html,css,js)  
+  <img src = "https://skillicons.dev/icons?i=python,cpp,java,html,css,js"><br>  
 </div>
 
 ### Frameworks and Tools
 <div align="center">
   <!-- Supported via skillicons.dev -->
-  ![AI Tools](https://skillicons.dev/icons?i=keras,matplotlib,numpy,pandas,pytorch,scikitlearn,tensorflow,scipy,seaborn,huggingface)
+  <img src = "https://skillicons.dev/icons?i=keras,matplotlib,numpy,pandas,pytorch,scikitlearn,tensorflow,scipy,seaborn,huggingface">
   <br>
   <!-- Unsupported items: use custom image badges -->
   <img src="https://seeklogo.com/images/C/crewai-logo-FF5A50DC6A-seeklogo.com.png" alt="CrewAI" style="height:32px; margin:4px;">
