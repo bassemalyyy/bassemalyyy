@@ -60,11 +60,11 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
 
 <!-- Custom logos row -->
-<img width="75" height="75" alt="langchain-color" src="https://github.com/user-attachments/assets/812db0aa-39a1-4f0f-974b-ee34ea0e0f8b" style="margin: 0 10px;" />
-<img width="75" height="75" alt="langgraph-color" src="https://github.com/user-attachments/assets/5fa0eec9-2940-4fe4-a680-4a08f4989b70" style="margin: 0 10px;" />
-<img width="75" height="75" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" style="margin: 0 10px;" />
-<img width="75" height="75" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" style="margin: 0 10px;" />
-<img width="75" height="75" alt="ollama" src="https://github.com/user-attachments/assets/472ebf26-f9a5-4247-828b-308d478d7360" style="margin: 0 10px;" />
+<img width="75" height="75" alt="langchain-color" src="https://github.com/user-attachments/assets/812db0aa-39a1-4f0f-974b-ee34ea0e0f8b" style="margin: 0 30px;" />
+<img width="75" height="75" alt="langgraph-color" src="https://github.com/user-attachments/assets/5fa0eec9-2940-4fe4-a680-4a08f4989b70" style="margin: 0 30px;" />
+<img width="75" height="75" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" style="margin: 0 30px;" />
+<img width="75" height="75" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" style="margin: 0 30px;" />
+<img width="75" height="75" alt="ollama" src="https://github.com/user-attachments/assets/472ebf26-f9a5-4247-828b-308d478d7360" style="margin: 0 30px;" />
 
 </div>
 
