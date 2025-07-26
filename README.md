@@ -35,13 +35,16 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 <!-- Languages & Technologies -->
 # 💻 Tech Stack:
-### Languages
+<div align="center">
+## Languages
+    </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css"/><br>
 </div>
 
-### Frameworks and Tools
-
+<div align="center">
+## Frameworks and Tools
+    </div>
 <div align="center">
 
 <!-- Skillicons row 1 -->
