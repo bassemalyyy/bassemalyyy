@@ -60,12 +60,12 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
 
 <!-- Custom logos row -->
-<img width="75" height="75" alt="langchain-color" src="https://github.com/user-attachments/assets/812db0aa-39a1-4f0f-974b-ee34ea0e0f8b" style="margin: 0 1000px;" />
-<img width="75" height="75" alt="langgraph-color" src="https://github.com/user-attachments/assets/5fa0eec9-2940-4fe4-a680-4a08f4989b70" style="margin: 0 30px;" />
-<img width="75" height="75" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" style="margin: 0 30px;" />
-<img width="75" height="75" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" style="margin: 0 30px;" />
-<img width="75" height="75" alt="ollama" src="https://github.com/user-attachments/assets/472ebf26-f9a5-4247-828b-308d478d7360" style="margin: 0 30px;" />
-
+  <img width="75" height="75" alt="langchain-color" src="https://github.com/user-attachments/assets/812db0aa-39a1-4f0f-974b-ee34ea0e0f8b" style="margin: 0 10px;" />
+  <img width="75" height="75" alt="langgraph-color" src="https://github.com/user-attachments/assets/5fa0eec9-2940-4fe4-a680-4a08f4989b70" style="margin: 0 10px;" />
+  <img width="75" height="75" alt="crewai-color" src="https://github.com/user-attachments/assets/02449474-c2f0-4656-b233-2015f1df690a" style="margin: 0 10px;" />
+  <img width="75" height="75" alt="llamaindex-color" src="https://github.com/user-attachments/assets/d5a4b2a7-1168-4737-a5da-eba0960f775d" style="margin: 0 10px;" />
+  <img width="75" height="75" alt="ollama" src="https://github.com/user-attachments/assets/472ebf26-f9a5-4247-828b-308d478d7360" style="margin: 0 10px;" />
+  
 </div>
 
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) -->
