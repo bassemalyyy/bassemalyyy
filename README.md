@@ -42,7 +42,8 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 ### Frameworks and Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,docker,fastapi,flask,opencv"/><br>
+<img src="https://skillicons.dev/icons?i=arduino,docker,fastapi,flask,sqlite"/><br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch"/><br>
 <img src="https://placehold.co/48x48/000000/FFFFFF?text=LangGraph" alt="LangGraph" title="LangGraph" style="margin: 5px;"/>
 <img src="https://placehold.co/48x48/000000/FFFFFF?text=CrewAI" alt="CrewAI" title="CrewAI" style="margin: 5px;"/>
 <img src="https://placehold.co/48x48/000000/FFFFFF?text=Unsloth%20AI" alt="Unsloth AI" title="Unsloth AI" style="margin: 5px;"/>
