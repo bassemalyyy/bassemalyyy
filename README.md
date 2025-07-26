@@ -34,6 +34,8 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 
 <!-- Languages & Technologies -->
+<div align=center>
+
 # 💻 Tech Stack:
 ### Languages
 <div align="center">
@@ -83,3 +85,5 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bassemalyyy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
