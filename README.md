@@ -1,4 +1,5 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bassemalyyy">
+<div align = "right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bassemalyyy">
 </div>
 
 <!-- <h1 align="center">Hi 👋, I'm Bassem Mohamed Ali</h1> -->
