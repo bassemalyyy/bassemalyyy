@@ -49,7 +49,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <img src="https://skillicons.dev/icons?i=arduino,docker,fastapi,flask,sqlite" /><br>
 
 <!-- Skillicons row 2 -->
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch" /><br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch,git" /><br>
 
 <!-- Shields row -->
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
