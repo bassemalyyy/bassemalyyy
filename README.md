@@ -85,9 +85,10 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 </div>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&title=Commits,Repositories,Followers,Experience&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" style="display: block; margin: 0 auto;">
-</p>
+
+<center>
+  <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&title=Commits,Repositories,Followers,Experience&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</center>
 
 
 ### ✍️ Random Dev Quote
