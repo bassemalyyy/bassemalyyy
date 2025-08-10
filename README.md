@@ -63,7 +63,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
-<br><br>
+<br>
 
 <!-- Custom logos row -->
   <img width="75" height="75" alt="langchain-color" src="https://github.com/user-attachments/assets/812db0aa-39a1-4f0f-974b-ee34ea0e0f8b" style="margin: 0 10px;" />
