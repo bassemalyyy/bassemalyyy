@@ -88,7 +88,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&row=1&column=4.5&title=Commits,Repositories,Followers,Experience&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&row=1&column=4.5&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </a>
 </div>
 
