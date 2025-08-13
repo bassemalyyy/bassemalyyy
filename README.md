@@ -79,9 +79,14 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 # 📊 GitHub Stats:
 <div align=center>
     
-![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=github-dark-blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -95,7 +100,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ### ✍️ Random Dev Quote
 <div align=center>
     
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aloglia)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue)
 </div>
 
 <!-- ---
