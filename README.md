@@ -79,23 +79,23 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 # 📊 GitHub Stats:
 <div align=center>
     
-![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&row=1&column=4.5&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&row=1&column=4.5&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </a>
 </div>
 
 ### ✍️ Random Dev Quote
 <div align=center>
     
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aloglia)
 </div>
 
 <!-- ---
