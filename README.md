@@ -92,14 +92,6 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassemalyyy&show_icons=true&locale=en&layout=compact" alt="bassemalyyy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemalyyy&show_icons=true&locale=en" alt="bassemalyyy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemalyyy&show_icons=true&locale=en" alt="bassemalyyy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemalyyy&" alt="bassemalyyy" /></p>
-
 ### ✍️ Random Dev Quote
 <div align=center>
     
