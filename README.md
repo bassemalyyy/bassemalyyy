@@ -100,7 +100,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ### ✍️ Random Dev Quote
 <div align=center>
     
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 </div>
 
 <!-- ---
