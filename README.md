@@ -67,6 +67,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 <div style="margin-top: 10px;">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 <br>
 
 <!-- Custom logos row -->
