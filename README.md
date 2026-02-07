@@ -92,7 +92,7 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bassemalyyy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bassemalyyy&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
