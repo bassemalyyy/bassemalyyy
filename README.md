@@ -88,21 +88,24 @@ I'm an AI enthusiast with a strong background in computer science and a passion 
 ![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=github-dark-blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bassemalyyy&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bassemalyyy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bassemalyyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bassemalyyy&row=1&column=4.5&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </a>
-</div>
+</div> -->
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <div align=center>
     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_blue)
